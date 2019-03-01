@@ -1,0 +1,4 @@
+[wrap-git]
+directory = samplesubproject
+url = https://github.com/Abdullah-AlAttar/glm.git
+revision = a8d46b3fc2524f4e13bb3fe4d3ecbe3e78dd3758
